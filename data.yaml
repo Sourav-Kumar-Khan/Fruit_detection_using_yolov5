@@ -1,0 +1,5 @@
+train: /home/sourav/Documents/fruit object detection/train/images
+val: /home/sourav/Documents/fruit object detection/test/images
+
+nc: 3
+names: ['apple', 'banana', 'orange']
